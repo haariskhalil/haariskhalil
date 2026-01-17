@@ -1,6 +1,6 @@
 # Hello, I'm Haaris! 👋
 
-I'm a Master's student in *Applied Data Science & AI* at SRH University, Heidelberg, currently looking for *Werkstudent opportunities* (up to 20hrs/week) in Germany.
+I'm a Master's student in *Applied Data Science & AI* at SRH University, Heidelberg, currently looking for *Werkstudent* opportunities (up to 20hrs/week) in Germany.
 
 ## 🎯 About Me
 
