@@ -28,11 +28,27 @@ I'm a Master's student in *Applied Data Science & AI* at SRH University, Heidelb
 - Engineered *Oracle SQL queries* for banking compliance reports with 100% accuracy
 - Created *interactive dashboards* analyzing energy-weather correlations across 1M+ rows
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-- *M.Sc. Applied Data Science & AI* - SRH University, Heidelberg
+- *M.Sc. Applied Data Science & AI* - SRH University, Heidelberg (2025 - 2027)
 - *B.Tech Electronics & Telecommunication* - Symbiosis Institute of Technology, Pune
-- Google Data Analytics, IBM Python for Data Science, AWS Cloud Foundations
+  - *Relevant Coursework:* Data Structures & Algorithms, Object-Oriented Programming & Python, Data Science, Big Data Analytics, Engineering Mathematics I/II/III, Stochastics & Probability
+
+## 📜 Certifications
+
+- Google Data Analytics Specialization - Google
+- Python for Data Science, AI & Development - IBM
+- SQL for Data Science - University of California
+- AWS Cloud Foundations - AWS Academy
+- Data Visualization with Tableau Specialization - University of California
+
+## 💼 Career Highlights
+
+*Internships:* Wuerth India, Forage AI, In-Solutions Global (Banking), Tata Tele Business Services, Ellicium Solutions
+
+*Domains:* Manufacturing, AI/Data Operations, Financial Services, Telecommunications, Data Analytics Consulting
+
+*Impact Areas:* BI Dashboard Development, Data Pipeline Automation, SQL Optimization, Web Scraping, Data Quality Assurance
 
 ## 📫 Let's Connect
 
